@@ -35,7 +35,7 @@
   "title": "Elevate Your SAT Preparation",
   "seoBlock": {
     "title": "Expert SAT Preparation Services",
-    "description": "Achieve your best SAT score with expert guidance and resources."
+    "description": "Achieve your best SAT score with expert guidance and resources. "
   },
   "mainBlock": {
     "title": "Elevate Your SAT Preparation",
